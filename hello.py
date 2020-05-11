@@ -1,2 +1,3 @@
-for i in range(1,6):
-    print("hello world!")
+for i in range(5):
+    if i % 2 == 0:
+        print("hello world!")
